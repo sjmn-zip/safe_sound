@@ -259,30 +259,13 @@ weights:                     # Σ = 1, 민감도 분석 대상
 
 ---
 
-## 11. 참고 자료
-
-### 통계·정책
-- 소방청 골든타임 정의 (신고 접수 → 현장 도착 7분, 최성기 8분 이론) — [뉴시스, 2023.03](https://mobile.newsis.com/view/NISX20230310_0002222414)
-- 2026년 상반기 7분 도착률 70.3% — [뉴스핌, 2026.08](https://www.newspim.com/news/view/20260805000671)
-- 서울 소방차 진입곤란·불가 지역 316개소 — [서울신문, 2026.11.06](https://go.seoul.co.kr/news/newsView.php?id=20261106500169)
-- 서울 소방용수시설·비상소화장치 현황, 최근 5년 화재 건수 — [서울신문, 2026.11.02](https://go.seoul.co.kr/news/newsView.php?id=20261102019005)
-
-### 데이터
-- [행정안전부 CCTV정보 (공공데이터포털)](https://www.data.go.kr/data/15013094/standard.do)
-- [서울시 소방용수시설 현황 (서울 열린데이터광장)](https://data.seoul.go.kr/dataList/OA-21306/S/1/datasetView.do)
-
-### 데이터 이용 조건
-- 서울소방재난본부 제공 데이터는 **공공누리 제1유형(출처표시)** 조건에 따라 이용합니다.
-- 그 밖의 데이터는 각 제공처의 이용 조건을 따릅니다.
-
----
 
 ## 팀
 
 | 역할 | 이름 | 담당 |
 |---|---|---|
-| Data / Modeling | `@github-id` | 공간 분석 파이프라인, FVI 설계 |
-| Field / Domain | `@github-id` | 현장조사, 도메인 검증 |
+| Data / Modeling | `@sjmn-zip` | 공간 분석 파이프라인, FVI 설계 |
+| Field / Domain | `@june08310831` | 현장조사, 도메인 검증 |
 
 ## License
 
